@@ -12,3 +12,5 @@ These two maps represent the location from where the twitter users are located a
 ![USA Wordcloud](img/Screenshot_of_USA_wordcloud.png)
 ![UK Wordcloud](img/Screenshot_of_UK_wordcloud.png)
 The word cloud are a visualization of the most repeated words in the twitter data that we got from two countries on Monday April,18th 2022. One of the most used word from both countries is the word 'CO'. For the USA wordcloud, we also see words such as "Go", "See" and "Job". For U.K., we see words such as "Love", "Easter" and "One". I think it is interesting to see what people are thinking or what might be trending at those countries during that specific time. Some words are harder to guess without the whole context.
+
+test
